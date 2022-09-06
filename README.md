@@ -18,3 +18,8 @@ And i'm a junior frontend-developer :octocat:
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+**Contacts:**
+
+* vikadovgal@yandex.ru
+* [Telegram](t.me/vudidi) 
