@@ -1,7 +1,7 @@
 ## Hi! My name is Vika
 And i'm a junior frontend-developer :octocat:
 
-### Some facts about me: 
+### About me: 
 
 - Graduate of the Web Developer course from Yandex Practicum  
 - Worked as a QA engineer  
