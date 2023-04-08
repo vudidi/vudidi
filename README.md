@@ -1,5 +1,5 @@
 ## Hi! My name is Vika
-And i'm a junior frontend developer :octocat:
+I'm a junior frontend developer
 
 ### About me: 
 
