@@ -1,12 +1,3 @@
-## Hi! My name is Vika
-I'm a junior frontend developer
-
-### About me: 
-
-- Graduate of the Web Developer course from Yandex Practicum  
-- Worked as a QA engineer  
-- Higher medical education  
-
 ### Technology Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
